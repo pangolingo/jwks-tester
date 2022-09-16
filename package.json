@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jose": "1.21.1",
+    "jose": "1.28.2",
     "jwks-rsa": "1.6.2"
   }
 }
