@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "jose": "1.21.1",
-    "jwks-rsa": "1.6.2"
+    "jwks-rsa": "3.0.0"
   }
 }
